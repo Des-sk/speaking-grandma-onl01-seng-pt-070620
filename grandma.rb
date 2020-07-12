@@ -7,7 +7,7 @@ if phrase == phrase.downcase
 elsif phrase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 else
-  puts "NO, NOT SINCE 1938!"
+  return "NO, NOT SINCE 1938!"
 end
 end
 
